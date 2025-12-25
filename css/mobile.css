@@ -1,0 +1,10 @@
+@media (max-width: 768px) {
+  .hero h1 {
+    font-size: 32px;
+    padding: 140px 20px 0;
+  }
+
+  .nav {
+    flex-direction: column;
+  }
+}
