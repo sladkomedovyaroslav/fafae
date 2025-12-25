@@ -1,1 +1,18 @@
-:root{--red:#d71920;--blue:#0b2a5b;}
+:root {
+  --red: #d71920;
+  --blue: #0b2a5b;
+  --dark: #0a1e3c;
+  --bg: #f4f6f9;
+  --white: #ffffff;
+}
+
+* {
+  box-sizing: border-box;
+  font-family: 'Segoe UI', Arial, sans-serif;
+}
+
+body {
+  margin: 0;
+  background: var(--bg);
+  color: #1f2a37;
+}
