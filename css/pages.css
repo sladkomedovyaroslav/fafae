@@ -1,0 +1,28 @@
+.page-header {
+  background: var(--blue);
+  color: white;
+  padding: 60px 20px;
+  text-align: center;
+}
+
+.schedule-table {
+  width: 100%;
+  border-collapse: collapse;
+  background: white;
+  border-radius: 8px;
+  overflow: hidden;
+}
+
+.schedule-table th {
+  background: #f1f3f6;
+  padding: 14px;
+}
+
+.schedule-table td {
+  padding: 12px;
+  border-bottom: 1px solid #eee;
+}
+
+.schedule-table tr:hover {
+  background: #f9fafc;
+}
